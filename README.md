@@ -43,4 +43,3 @@ To add or remove your bot from specific channels or private groups, you can use 
 ## Copyright
 
 Copyright &copy; Slack Technologies, Inc. MIT License; see LICENSE for further details.
-
